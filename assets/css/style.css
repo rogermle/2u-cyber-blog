@@ -75,7 +75,7 @@ header a {
 
 /* Hero Style Start */
 .intro {
-  background-image: url("https://drive.google.com/uc?export=view&id=1jPkt3OSxC3tQZMdYEcZudTT1yO4gSfZx");  
+  background-image: url("../images/Background.jpg");  
   height: 475px;
   position: center;
   background-repeat: no-repeat;
@@ -170,3 +170,4 @@ section {
   font-weight: lighter;
   font-size: 17px;
   line-height: 1.3;
+}
